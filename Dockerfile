@@ -1,6 +1,6 @@
 FROM adoptopenjdk/openjdk11
   
-EXPOSE 8888
+EXPOSE 8070
  
 ENV APP_HOME /usr/src/app
 
